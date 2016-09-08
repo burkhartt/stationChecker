@@ -1,0 +1,16 @@
+{
+  "name": "stationcheck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "plot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^4.7.0",
+    "jquery": "^3.1.0",
+    "lodash": "^4.15.0"
+  }
+}
